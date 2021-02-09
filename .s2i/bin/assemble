@@ -1,5 +1,0 @@
-echo "Hello before assemble script"
-
-/usr/libexec/s2i/assemble
-
-echo "Hello after assemble script"
